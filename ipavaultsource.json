@@ -3,7 +3,7 @@
   "identifier": "com.ipavault.source",
   "subtitle": "IPAVault IPAs",
   "description": "IPAs from ipavault \n - Telegram Channel: https://t.me/ipavault",
-  "iconURL": "https://files.catbox.moe/kxce3t.jpg",
+  "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/ipavault-altstore-repo-logo.png",
   "sourceURL": "https://raw.githubusercontent.com/927tx/IPA-Vault/refs/heads/main/ipavaultsource.json",
   "apps": [
     {
