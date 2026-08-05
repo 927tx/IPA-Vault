@@ -35,7 +35,7 @@
       "versionDescription": "Updated to Telegram v12.9.2"
       },
     {
-      "name": "Swifgram (Lead)",
+      "name": "Swiftgram (Lead)",
       "bundleIdentifier": "app.swiftgram.ios",
       "developerName": "aquaonly & ipavault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Swiftgram-12.9.2-Lead.ipa",
@@ -49,7 +49,7 @@
       "versionDescription": "Updated to Swiftgram v12.9.2"
     },
         {
-      "name": "Swifgram (TGExtra)",
+      "name": "Swiftgram (TGExtra)",
       "bundleIdentifier": "app.swiftgram.ios.tgextra",
       "developerName": "swiftleopard & ipavault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Swiftgram-12.9.2-TGExtra.ipa",
@@ -147,7 +147,7 @@
       "versionDescription": "Updated X v12.14"
     },
     {
-      "name": "XEnhancer",
+      "name": "X XEnhancer",
       "bundleIdentifier": "com.atebits.Tweetie2.xe",
       "developerName": "zeroxdeadbeef & ipavault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/X-12.14-XE.ipa",
