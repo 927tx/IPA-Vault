@@ -4,7 +4,7 @@
   "subtitle": "IPAVault ipas",
   "description": "IPAs from ipavault \n - Telegram Channel: https://t.me/ipavault",
   "iconURL": "https://files.catbox.moe/kxce3t.jpg",
-  "sourceURL": "",
+  "sourceURL": "https://raw.githubusercontent.com/927tx/IPA-Vault/refs/heads/main/ipavaultsource.json",
   "apps": [
     {
       "name": "Telegram (Lead)",
