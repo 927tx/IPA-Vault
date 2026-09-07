@@ -666,17 +666,17 @@
     },
     {
       "name": "YouTube (YouMod 2.0.0)",
-      "bundleIdentifier": "com.google.ios.youtube.youmod.v21-35-3",
+      "bundleIdentifier": "com.google.ios.youtube.youmod.v21-36-6",
       "developerName": "Tonwalter888 & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/YouTube-21.35.3-YouMod.ipa",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/YouTube-21.36.6-YouMod.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/YouTube-Icons/YouTube-AppStore-1024x1024.png",
-      "localizedDescription": "YouTube 21.35.3 with YouMod 2.0.0\n\nAdded Tweaks:\nYTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, Gonerino, LowContrastMode, VideoOverlay, YouGetCaption, YouTubeNativeShare, PleaseDontStopTheMusic, YouQuality, YouSlider, YTUHD, UncappedAVPlayer",
-      "size": 133223545,
-      "subtitle": "YouTube 21.35.3 with YouMod 2.0.0",
+      "localizedDescription": "YouTube 21.36.6 with YouMod 2.0.0\n\nAdded Tweaks:\nYTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, Gonerino, LowContrastMode, VideoOverlay, YouGetCaption, YouTubeNativeShare, PleaseDontStopTheMusic, YouQuality, YouSlider, YTUHD, UncappedAVPlayer",
+      "size": 128197202,
+      "subtitle": "YouTube 21.36.6 with YouMod 2.0.0",
       "tintColor": "#FF0000",
-      "version": "21.35.3",
-      "versionDate": "2026-09-01",
-      "versionDescription": "IPA Vault build for YouTube (YouMod 21.35.3), version 21.35.3"
+      "version": "21.36.6",
+      "versionDate": "2026-09-07",
+      "versionDescription": "IPA Vault build for YouTube (YouMod 21.36.6), version 21.36.6"
     },
     {
       "name": "YouTube (YTKACE 0.9.2) (iOS 16+)",
@@ -694,17 +694,17 @@
     },
     {
       "name": "YouTube (YTKACE 0.9.2)",
-      "bundleIdentifier": "com.google.ios.youtube.ytkace.v21-35-3",
+      "bundleIdentifier": "com.google.ios.youtube.ytkace.v21-36-6",
       "developerName": "itzzace0 & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/YouTube-21.35.3-YTKACE.ipa",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/YouTube-21.36.6-YTKACE.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/YouTube-Icons/YouTube-AppStore-1024x1024.png",
-      "localizedDescription": "YouTube 21.35.3 with YTKACE 0.9.2\n\nAdded Tweaks:\nYTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, YGonerino, LowContrastMode, VideoOverlay, YouGetCaption, YouTubeNativeShare, PleaseDontStopTheMusic, YouQuality, YouChooseQuality, YTHoldForSpeed, YouGroupSettings",
-      "size": 133299944,
-      "subtitle": "YouTube 21.35.3 with YTKACE 0.9.2",
+      "localizedDescription": "YouTube 21.36.6 with YTKACE 0.9.2\n\nAdded Tweaks:\nYTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, YGonerino, LowContrastMode, VideoOverlay, YouGetCaption, YouTubeNativeShare, PleaseDontStopTheMusic, YouQuality, YouChooseQuality, YTHoldForSpeed, YouGroupSettings",
+      "size": 128291021,
+      "subtitle": "YouTube 21.36.6 with YTKACE 0.9.2",
       "tintColor": "#FF0000",
-      "version": "21.35.3",
-      "versionDate": "2026-09-01",
-      "versionDescription": "IPA Vault build for YouTube (YTKACE 21.35.3), version 21.35.3"
+      "version": "21.36.6",
+      "versionDate": "2026-09-07",
+      "versionDescription": "IPA Vault build for YouTube (YTKACE 21.36.6), version 21.36.6"
     },
     {
       "name": "YTMUltimate+",
