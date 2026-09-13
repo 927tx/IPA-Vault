@@ -708,7 +708,7 @@
     },
     {
       "name": "YouTube (YouMod 2.0.0) (iOS 16+)",
-      "bundleIdentifier": "com.google.ios.youtube.youmod.v21-33-6",
+      "bundleIdentifier": "com.google.ios.youtube.youmod.21-33-6",
       "developerName": "Tonwalter888 & IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/YouTube-21.33.6-YouMod.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/YouTube-Icons/YouTube-AppStore-1024x1024.png",
@@ -722,7 +722,7 @@
     },
     {
       "name": "YouTube (YouMod 2.0.0)",
-      "bundleIdentifier": "com.google.ios.youtube.youmod.v21-36-6",
+      "bundleIdentifier": "com.google.ios.youtube.youmod",
       "developerName": "Tonwalter888 & IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/YouTube-21.36.6-YouMod.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/YouTube-Icons/YouTube-AppStore-1024x1024.png",
@@ -735,8 +735,8 @@
       "versionDescription": "IPA Vault build for YouTube (YouMod 21.36.6), version 21.36.6"
     },
     {
-      "name": "YouTube (YTKACE 0.9.2) (iOS 16+)",
-      "bundleIdentifier": "com.google.ios.youtube.ytkace.v21-33-6",
+      "name": "YouTube (YTKACE 0.9.3) (iOS 16+)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkace",
       "developerName": "itzzace0 & IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/YouTube-21.33.6-YTKACE.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/YouTube-Icons/YouTube-AppStore-1024x1024.png",
@@ -749,8 +749,8 @@
       "versionDescription": "IPA Vault build for YouTube (YTKACE 21.33.6), version 21.33.6"
     },
     {
-      "name": "YouTube (YTKACE 0.9.2)",
-      "bundleIdentifier": "com.google.ios.youtube.ytkace.v21-36-6",
+      "name": "YouTube (YTKACE 0.9.3)",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "itzzace0 & IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/YouTube-21.36.6-YTKACE.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/YouTube-Icons/YouTube-AppStore-1024x1024.png",
