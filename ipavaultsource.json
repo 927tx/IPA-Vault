@@ -611,12 +611,12 @@
     {
       "name": "Twitch",
       "bundleIdentifier": "tv.twitch",
-      "developerName": "dvntms/zeroxdeadbeef/achu/IPA Vault",
+      "developerName": "dvntms/zeroxdeadbeef/canpng/IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Twitch-31.2.4-Tweach-TC.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Twitch-Tweach-TC-Icons/Twitch-AppStore-1024x1024.png",
-      "localizedDescription": "Twitch 31.2.4 with Tweach 2.4 + Twitch Control 0.0.6",
+      "localizedDescription": "Twitch 31.2.4 with Tweach 2.4.1 + Twitch Control 0.0.6",
       "size": 195569916,
-      "subtitle": "Twitch 31.2.4 with Tweach 2.4 + Twitch Control 0.0.6",
+      "subtitle": "Twitch 31.2.4 with Tweach 2.4.1 + Twitch Control 0.0.6",
       "tintColor": "#9146FF",
       "version": "31.2.4",
       "versionDate": "2026-09-18",
@@ -625,16 +625,16 @@
     {
       "name": "Twitch (Glass)",
       "bundleIdentifier": "tv.twitch.glass",
-      "developerName": "dvntms/zeroxdeadbeef/achu/IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Twitch-31.2.2-Tweach-TC-Glass.ipa",
+      "developerName": "dvntms/zeroxdeadbeef/canpng/IPA Vault",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Twitch-31.2.4-Tweach-TC-Glass.ipaa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Twitch-Tweach-TC-Icons/Twitch-AppStore-1024x1024.png",
-      "localizedDescription": "Twitch 31.2.4 with Tweach 2.4 + Twitch Control 0.0.6 (Glass)",
+      "localizedDescription": "Twitch 31.2.4 with Tweach 2.4.1 + Twitch Control 0.0.6 (Glass)",
       "size": 195569918,
-      "subtitle": "Twitch 31.2.4 with Tweach 2.4 + Twitch Control 0.0.6 (Glass)",
+      "subtitle": "Twitch 31.2.4 with Tweach 2.4.1 + Twitch Control 0.0.6 (Glass)",
       "tintColor": "#9146FF",
       "version": "31.2.4",
       "versionDate": "2026-09-18",
-      "versionDescription": "IPA Vault build for Twitch (Glass), version 31.2.2"
+      "versionDescription": "IPA Vault build for Twitch (Glass), version 31.2.4"
     },
     {
       "name": "Twitter (Login)",
