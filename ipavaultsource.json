@@ -806,7 +806,7 @@
     },
     {
       "name": "YouTube (YTKACE 1.1.0) (Glass)",
-      "bundleIdentifier": "com.google.ios.youtube.ytkace.glass",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "itzzace0 & IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/YouTube-21.38.3-YTKACE-Glass.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/YouTube-Icons/YouTube-AppStore-1024x1024.png",
