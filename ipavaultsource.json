@@ -805,18 +805,18 @@
       "versionDescription": "IPA Vault build for YouTube (YTKACE 1.1.0), version 21.33.6"
     },
     {
-      "name": "YouTube (YTKACE 1.1.0) (Glass)",
+      "name": "YouTube (YTKACE 1.1.1)",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "itzzace0 & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/YouTube-21.38.3-YTKACE-Glass.ipa",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/YouTube%2021.39.4%20(YTKACE%201.1.1)%20%5B%40ipavault%5D.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/YouTube-Icons/YouTube-AppStore-1024x1024.png",
-      "localizedDescription": "YouTube 21.38.3 with YTKACE 1.1.0 (Glass)\n\nAdded Tweaks:\nYTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, Gonerino, LowContrastMode, VideoOverlay, YouGetCaption, YouQuality, YouChooseQuality, YTHoldForSpeed, YouGroupSettings",
+      "localizedDescription": "YouTube 21.39.4 with YTKACE 1.1.0 (Glass)\n\nAdded Tweaks:\nYTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, Gonerino, LowContrastMode, VideoOverlay, YouGetCaption, YouQuality, YouChooseQuality, YTHoldForSpeed, YouGroupSettings",
       "size": 137961055,
-      "subtitle": "YouTube 21.38.3 with YTKACE 1.1.0 (Glass)",
+      "subtitle": "YouTube 21.39.4 with YTKACE 1.1.1",
       "tintColor": "#FF0000",
-      "version": "21.38.3",
+      "version": "21.39.4",
       "versionDate": "2026-09-27",
-      "versionDescription": "IPA Vault build for YouTube (YTKACE 1.1.0) (Glass), version 21.38.3"
+      "versionDescription": "IPA Vault build for YouTube (YTKACE 1.1.1) (Glass), version 21.39.4"
     },
     {
       "developerName": "dvntms & itzzace0 & IPA Vault",
