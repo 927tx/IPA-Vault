@@ -455,6 +455,34 @@
       "versionDescription": "IPA Vault build for Telegram (TGExtra), version 12.9.4"
     },
     {
+      "name": "Spotify (Vitrine 1.0.0-b5)",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "MyNameIsJeff & skopevoj & IPA Vault",
+      "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
+      "tintColor": "#1DB954",
+      "version": "9.1.88",
+      "versionDate": "2026-10-07",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.88-Vitrine.ipa",
+      "localizedDescription": "Spotify 9.1.88 with Vitrine 1.0.0-b5",
+      "size": 133262075,
+      "subtitle": "Spotify 9.1.88 with Vitrine 1.0.0-b5",
+      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b5), version 9.1.88"
+    },
+    {
+      "name": "Spotify (Vitrine 1.0.0-b5) (No Plugins)",
+      "bundleIdentifier": "com.spotify.client.vitrine.noplugins",
+      "developerName": "MyNameIsJeff & skopevoj & IPA Vault",
+      "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
+      "tintColor": "#1DB954",
+      "version": "9.1.88",
+      "versionDate": "2026-10-07",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.88-Vitrine-No-Plugins.ipa",
+      "localizedDescription": "Spotify 9.1.88 with Vitrine 1.0.0-b5 (No Plugins)",
+      "size": 131724947,
+      "subtitle": "Spotify 9.1.88 with Vitrine 1.0.0-b5 (No Plugins)",
+      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b5) (No Plugins), version 9.1.88"
+    },
+    {
       "name": "Spotify (EeveeSpotify + Chroma.pw) (9.1.78)",
       "bundleIdentifier": "com.spotify.client.v9-1-78",
       "developerName": "skopevoj & IPA Vault",
@@ -553,7 +581,7 @@
       "versionDescription": "IPA Vault build for Turrit (TGExtra), version 1.5.5"
     },
     {
-      "name": "TwitchUnblock 1.2.2",
+      "name": "TwitchUnblock",
       "bundleIdentifier": "com.ipavault.twitchunblock",
       "developerName": "MXFia19 & IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/TwitchUnblock-1.2.2.ipa",
