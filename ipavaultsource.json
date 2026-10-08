@@ -500,15 +500,15 @@
       "name": "TikTok (Infinitok)",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "Mod4 & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/TikTok-47.0.0-Infinitok.ipa",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/TikTok-47.1.0-Infinitok.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/TikTok-Icons/TikTok-AppStore-1024x1024.png",
-      "localizedDescription": "TikTok 47.0.0 with Infinitok 0.0.2",
-      "size": 485941078,
-      "subtitle": "TikTok 47.0.0 with Infinitok 0.0.2",
+      "localizedDescription": "TikTok 47.1.0 with Infinitok 0.0.2",
+      "size": 491405708,
+      "subtitle": "TikTok 47.1.0 with Infinitok 0.0.2",
       "tintColor": "#000000",
-      "version": "47.0.0",
-      "versionDate": "2026-09-24",
-      "versionDescription": "IPA Vault build for TikTok (Infinitok), version 47.0.0"
+      "version": "47.1.0",
+      "versionDate": "2026-10-07",
+      "versionDescription": "IPA Vault build for TikTok (Infinitok), version 47.1.0"
     },
     {
       "name": "Turrit (MxGram)",
