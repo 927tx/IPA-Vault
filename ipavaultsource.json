@@ -54,13 +54,13 @@
       "developerName": "tqmane & IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/GooglePhotos-7.20.2-Gunshot.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Google-Photos-Icons/Google-Photos-AppStore-1024x1024.png",
-      "localizedDescription": "Google Photos 7.20.2 with Gunshot 0.2.6 (iOS 16.1+)",
-      "size": 127613909,
-      "subtitle": "Google Photos 7.20.2 with Gunshot 0.2.6 (iOS 16.1+)",
+      "localizedDescription": "Google Photos 7.20.2 with Gunshot 0.3.0 (iOS 16.1+)",
+      "size": 127620974,
+      "subtitle": "Google Photos 7.20.2 with Gunshot 0.3.0 (iOS 16.1+)",
       "tintColor": "#4285F4",
       "version": "7.20.2",
-      "versionDate": "2026-09-29",
-      "versionDescription": "IPA Vault build for Google Photos (Gunshot 0.2.6), version 7.20.2"
+      "versionDate": "2026-10-09",
+      "versionDescription": "IPA Vault build for Google Photos (Gunshot 0.3.0), version 7.20.2"
     },
     {
       "name": "Google Photos (Gunshot) (iOS 17+)",
@@ -68,13 +68,13 @@
       "developerName": "tqmane & IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/GooglePhotos-7.44.0-Gunshot.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Google-Photos-Icons/Google-Photos-AppStore-1024x1024.png",
-      "localizedDescription": "Google Photos 7.44.0 with Gunshot 0.2.6 (iOS 17+)",
-      "size": 144528062,
-      "subtitle": "Google Photos 7.44.0 with Gunshot 0.2.6 (iOS 17+)",
+      "localizedDescription": "Google Photos 7.44.0 with Gunshot 0.3.0 (iOS 17+)",
+      "size": 144535046,
+      "subtitle": "Google Photos 7.44.0 with Gunshot 0.3.0 (iOS 17+)",
       "tintColor": "#4285F4",
       "version": "7.44.0",
-      "versionDate": "2026-09-29",
-      "versionDescription": "IPA Vault build for Google Photos (Gunshot 0.2.6), version 7.44.0"
+      "versionDate": "2026-10-09",
+      "versionDescription": "IPA Vault build for Google Photos (Gunshot 0.3.0), version 7.44.0"
     },
     {
       "name": "Google Photos (Gunshot)",
@@ -82,13 +82,13 @@
       "developerName": "tqmane & IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/GooglePhotos-7.96.0-Gunshot.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Google-Photos-Icons/Google-Photos-AppStore-1024x1024.png",
-      "localizedDescription": "Google Photos 7.96.0 with Gunshot 0.2.6",
-      "size": 181298220,
-      "subtitle": "Google Photos 7.96.0 with Gunshot 0.2.6",
+      "localizedDescription": "Google Photos 7.96.0 with Gunshot 0.3.0",
+      "size": 181305965,
+      "subtitle": "Google Photos 7.96.0 with Gunshot 0.3.0",
       "tintColor": "#4285F4",
       "version": "7.96.0",
-      "versionDate": "2026-10-08",
-      "versionDescription": "IPA Vault build for Google Photos (Gunshot 0.2.6), version 7.96.0"
+      "versionDate": "2026-10-09",
+      "versionDescription": "IPA Vault build for Google Photos (Gunshot 0.3.0), version 7.96.0"
     },
     {
       "name": "iMe (MxGram)",
@@ -469,7 +469,7 @@
       "versionDescription": "IPA Vault build for Telegram (TGExtra), version 13.0"
     },
     {
-      "name": "Spotify (EeveeSpotify 7.0.0)",
+      "name": "Spotify (EeveeSpotify)",
       "bundleIdentifier": "com.spotify.client.eeveespotify",
       "developerName": "skopevoj & IPA Vault",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
@@ -483,7 +483,7 @@
       "versionDescription": "IPA Vault build for Spotify (EeveeSpotify 7.0.0), version 9.1.90"
     },
     {
-      "name": "Spotify (EeveeSpotify 7.0.0) (No Plugins)",
+      "name": "Spotify (EeveeSpotify) (No Plugins)",
       "bundleIdentifier": "com.spotify.client.eeveespotify.noplugins",
       "developerName": "skopevoj & IPA Vault",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
@@ -497,35 +497,35 @@
       "versionDescription": "IPA Vault build for Spotify (EeveeSpotify 7.0.0) (No Plugins), version 9.1.90"
     },
     {
-      "name": "Spotify (Vitrine 1.0.0-b7)",
+      "name": "Spotify (Vitrine)",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "MyNameIsJeff & skopevoj & IPA Vault",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
       "tintColor": "#1DB954",
-      "version": "9.1.88",
-      "versionDate": "2026-10-08",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.88-Vitrine.ipa",
-      "localizedDescription": "Spotify 9.1.88 with Vitrine 1.0.0-b7",
-      "size": 133300543,
-      "subtitle": "Spotify 9.1.88 with Vitrine 1.0.0-b7",
-      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b7), version 9.1.88"
+      "version": "9.1.90",
+      "versionDate": "2026-10-09",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.90-Vitrine.ipa",
+      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b9",
+      "size": 131252121,
+      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b9",
+      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b9), version 9.1.90"
     },
     {
-      "name": "Spotify (Vitrine 1.0.0-b7) (No Plugins)",
+      "name": "Spotify (Vitrine) (No Plugins)",
       "bundleIdentifier": "com.spotify.client.vitrine.noplugins",
       "developerName": "MyNameIsJeff & skopevoj & IPA Vault",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
       "tintColor": "#1DB954",
-      "version": "9.1.88",
-      "versionDate": "2026-10-08",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.88-Vitrine-No-Plugins.ipa",
-      "localizedDescription": "Spotify 9.1.88 with Vitrine 1.0.0-b7 (No Plugins)",
-      "size": 131763068,
-      "subtitle": "Spotify 9.1.88 with Vitrine 1.0.0-b7 (No Plugins)",
-      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b7) (No Plugins), version 9.1.88"
+      "version": "9.1.90",
+      "versionDate": "2026-10-09",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.90-Vitrine-No-Plugins.ipa",
+      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b9 (No Plugins)",
+      "size": 129756032,
+      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b9 (No Plugins)",
+      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b9) (No Plugins), version 9.1.90"
     },
     {
-      "name": "Spotify (EeveeSpotify + Chroma.pw) (9.1.78)",
+      "name": "Spotify (Eevee + Chroma) (9.1.78)",
       "bundleIdentifier": "com.spotify.client.v9-1-78",
       "developerName": "skopevoj & IPA Vault",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
@@ -539,7 +539,7 @@
       "versionDescription": "IPA Vault build for Spotify (EeveeSpotify 7.0.0 + Chroma.pw 0.50.0), version 9.1.78"
     },
     {
-      "name": "Spotify (EeveeSpotify + Chroma.pw) (9.1.78) (No Plugins)",
+      "name": "Spotify (Eevee + Chroma) (9.1.78) (No Plugins)",
       "bundleIdentifier": "com.spotify.client.spotipw.noplugins.v9-1-78",
       "developerName": "skopevoj & IPA Vault",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
@@ -623,8 +623,8 @@
       "versionDescription": "IPA Vault build for Turrit (TGExtra), version 1.5.5"
     },
     {
-      "name": "TwitchUnblock 1.2.16",
-      "bundleIdentifier": "com.ipavault.twitchunblock",
+      "name": "TwitchUnblock",
+      "bundleIdentifier": "com.mxfia19.TwitchUnblock",
       "developerName": "MXFia19 & IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/TwitchUnblock-1.2.16.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Twitch-Tweach-TC-Icons/Twitch-AppStore-1024x1024.png",
@@ -845,6 +845,34 @@
       "version": "9.40.2",
       "versionDate": "2026-10-04",
       "versionDescription": "IPA Vault build for YTMUltimate+ (No PiP), version 9.40.2"
+    },
+    {
+      "name": "Spotify (Taurus)",
+      "bundleIdentifier": "com.spotify.client.taurus",
+      "developerName": "samj-exe & IPA Vault",
+      "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
+      "tintColor": "#1DB954",
+      "version": "9.1.78",
+      "versionDate": "2026-10-09",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.78-Taurus.ipa",
+      "localizedDescription": "Spotify 9.1.78 with Taurus 0.50.1",
+      "size": 133874753,
+      "subtitle": "Spotify 9.1.78 with Taurus 0.50.1",
+      "versionDescription": "IPA Vault build for Spotify (Taurus 0.50.1), version 9.1.78"
+    },
+    {
+      "name": "Spotify (Taurus) (No Plugins)",
+      "bundleIdentifier": "com.spotify.client.taurus.noplugins",
+      "developerName": "samj-exe & IPA Vault",
+      "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
+      "tintColor": "#1DB954",
+      "version": "9.1.78",
+      "versionDate": "2026-10-09",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.78-Taurus-No-Plugins.ipa",
+      "localizedDescription": "Spotify 9.1.78 with Taurus 0.50.1 (No Plugins)",
+      "size": 132933434,
+      "subtitle": "Spotify 9.1.78 with Taurus 0.50.1 (No Plugins)",
+      "versionDescription": "IPA Vault build for Spotify (Taurus 0.50.1), version 9.1.78 (No Plugins)"
     }
   ],
   "userInfo": {}
