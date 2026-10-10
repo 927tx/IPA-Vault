@@ -37,7 +37,7 @@
     {
       "name": "Facebook (Facebook Plus)",
       "bundleIdentifier": "com.facebook.Facebook.facebookplus",
-      "developerName": "IPA Vault",
+      "developerName": "shajon404 & IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Facebook-581.0.0-Facebook-Plus.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Facebook-Icons/Facebook-AppStore-1024x1024.png",
       "localizedDescription": "Facebook 581.0.0 with Facebook Plus 1.0.1",
@@ -92,7 +92,7 @@
     },
     {
       "name": "iMe (MxGram)",
-      "bundleIdentifier": "com.olcorporation.olai",
+      "bundleIdentifier": "com.olcorporation.olai.mxgram",
       "developerName": "m1ronx1412 & IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/iMe-12.8.1-MxGram.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/iMe-Icons/iMe-AppStore-1024x1024.png",
@@ -106,7 +106,7 @@
     },
     {
       "name": "iMe (iQTele)",
-      "bundleIdentifier": "com.olcorporation.olai.iqtele",
+      "bundleIdentifier": "com.olcorporation.olai",
       "developerName": "7MD & IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/iMe-12.8.1-iQTele.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/iMe-Icons/iMe-AppStore-1024x1024.png",
@@ -302,7 +302,7 @@
     },
     {
       "name": "Nagram (MxGram)",
-      "bundleIdentifier": "xyz.nextalone.nagram.mxgram",
+      "bundleIdentifier": "xyz.nextalone.nagram",
       "developerName": "m1ronx1412 & IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Nagram-12.9.2.2-MxGram.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Nagram-Icons/Nagram-AppStore-1024x1024.png",
