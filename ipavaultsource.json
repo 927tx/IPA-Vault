@@ -503,12 +503,12 @@
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
       "tintColor": "#1DB954",
       "version": "9.1.90",
-      "versionDate": "2026-10-09",
+      "versionDate": "2026-10-10",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.90-Vitrine.ipa",
-      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b9",
-      "size": 131252121,
-      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b9",
-      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b9), version 9.1.90"
+      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b10",
+      "size": 131257684,
+      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b10",
+      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b10), version 9.1.90"
     },
     {
       "name": "Spotify (Vitrine) (No Plugins)",
@@ -517,12 +517,12 @@
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
       "tintColor": "#1DB954",
       "version": "9.1.90",
-      "versionDate": "2026-10-09",
+      "versionDate": "2026-10-10",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.90-Vitrine-No-Plugins.ipa",
-      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b9 (No Plugins)",
-      "size": 129756032,
-      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b9 (No Plugins)",
-      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b9) (No Plugins), version 9.1.90"
+      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b10 (No Plugins)",
+      "size": 129763277,
+      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b10 (No Plugins)",
+      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b10) (No Plugins), version 9.1.90"
     },
     {
       "name": "Spotify (Eevee + Chroma) (9.1.78)",
