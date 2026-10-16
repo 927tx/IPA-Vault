@@ -147,18 +147,18 @@
       "versionDescription": "IPA Vault build for Infuse Plus (8.2.4), version 8.2.4"
     },
     {
-      "name": "Infuse Plus (8.5.7)",
+      "name": "Infuse Plus (8.5.8)",
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "dvntms & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Infuse-8.5.7-Infuse-Plus.ipa",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Infuse-8.5.8-Infuse-Plus.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Infuse-icons/Infuse-AppStore-1024x1024.png",
-      "localizedDescription": "Infuse 8.5.7 with Infuse Plus 2.6",
-      "size": 97173009,
-      "subtitle": "Infuse 8.5.7 with Infuse Plus 2.6",
+      "localizedDescription": "Infuse 8.5.8 with Infuse Plus 2.6",
+      "size": 99469134,
+      "subtitle": "Infuse 8.5.8 with Infuse Plus 2.6",
       "tintColor": "#000000",
-      "version": "8.5.7",
-      "versionDate": "2026-10-13",
-      "versionDescription": "IPA Vault build for Infuse Plus (8.5.7), version 8.5.7"
+      "version": "8.5.8",
+      "versionDate": "2026-10-16",
+      "versionDescription": "IPA Vault build for Infuse Plus (8.5.8), version 8.5.8"
     },
     {
       "name": "Husk",
