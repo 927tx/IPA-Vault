@@ -570,15 +570,15 @@
       "name": "Threads (ThreadSaver)",
       "bundleIdentifier": "com.burbn.barcelona",
       "developerName": "swiftleopard & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Threads-451.0-ThreadSaver.ipa",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Threads-452.0-ThreadSaver.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Threads-Icons/Threads-AppStore-1024x1024.png",
-      "localizedDescription": "Threads 451.0 with ThreadSaver",
-      "size": 112995145,
-      "subtitle": "Threads 451.0 with ThreadSaver",
+      "localizedDescription": "Threads 452.0 with ThreadSaver",
+      "size": 111173156,
+      "subtitle": "Threads 452.0 with ThreadSaver",
       "tintColor": "#000000",
-      "version": "451.0",
-      "versionDate": "2026-10-13",
-      "versionDescription": "IPA Vault build for Threads (ThreadSaver), version 451.0"
+      "version": "452.0",
+      "versionDate": "2026-10-19",
+      "versionDescription": "IPA Vault build for Threads (ThreadSaver), version 452.0"
     },
     {
       "name": "TikTok (Infinitok)",
@@ -640,15 +640,15 @@
       "name": "TwitchUnblock",
       "bundleIdentifier": "com.mxfia19.TwitchUnblock",
       "developerName": "MXFia19 & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/TwitchUnblock-1.4.0.ipa",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/TwitchUnblock-1.5.0.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Twitch-Tweach-TC-Icons/Twitch-AppStore-1024x1024.png",
-      "localizedDescription": "TwitchUnblock 1.4.0",
-      "size": 3844816,
-      "subtitle": "TwitchUnblock 1.4.0",
+      "localizedDescription": "TwitchUnblock 1.5.0",
+      "size": 4136356,
+      "subtitle": "TwitchUnblock 1.5.0",
       "tintColor": "#9146FF",
-      "version": "1.4.0",
-      "versionDate": "2026-10-15",
-      "versionDescription": "IPA Vault build for TwitchUnblock, version 1.4.0"
+      "version": "1.5.0",
+      "versionDate": "2026-10-19",
+      "versionDescription": "IPA Vault build for TwitchUnblock, version 1.5.0"
     },
     {
       "name": "Twitch",
@@ -887,6 +887,20 @@
       "size": 137098824,
       "subtitle": "Spotify 9.1.90 with Taurus 0.60.2 (No Plugins)",
       "versionDescription": "IPA Vault build for Spotify (Taurus 0.60.2), version 9.1.90 (No Plugins)"
+    },
+    {
+      "name": "SpotiFLAC Mobile",
+      "bundleIdentifier": "com.zarz.spotiflac",
+      "developerName": "spotbye & IPA Vault",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/SpotiFLAC-Mobile-5.2.0.ipa",
+      "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/SpotiFLAC-Icons/Icon-App-1024x1024_Normal.png",
+      "localizedDescription": "SpotiFLAC Mobile 5.2.0",
+      "size": 34993155,
+      "subtitle": "SpotiFLAC Mobile 5.2.0",
+      "tintColor": "#1DB954",
+      "version": "5.2.0",
+      "versionDate": "2026-10-19",
+      "versionDescription": "IPA Vault build for SpotiFLAC Mobile, version 5.2.0"
     }
   ],
   "userInfo": {}
