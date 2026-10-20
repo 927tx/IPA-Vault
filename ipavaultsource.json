@@ -889,18 +889,18 @@
       "versionDescription": "IPA Vault build for Spotify (Taurus 0.60.2), version 9.1.90 (No Plugins)"
     },
     {
-      "name": "SpotiFLAC Mobile",
-      "bundleIdentifier": "com.zarz.spotiflac",
-      "developerName": "spotbye & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/SpotiFLAC-Mobile-5.2.0.ipa",
-      "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/SpotiFLAC-Icons/Icon-App-1024x1024_Normal.png",
-      "localizedDescription": "SpotiFLAC Mobile 5.2.0",
-      "size": 34993155,
-      "subtitle": "SpotiFLAC Mobile 5.2.0",
+      "name": "Mornye",
+      "bundleIdentifier": "com.zarz.mornye",
+      "developerName": "zarzet & IPA Vault",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Mornye-5.2.1.ipa",
+      "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Mornye-Icons/Icon-App-1024x1024_Normal.png",
+      "localizedDescription": "Mornye 5.2.1 — the rebranded successor to SpotiFLAC Mobile.",
+      "size": 34852166,
+      "subtitle": "Mornye 5.2.1",
       "tintColor": "#1DB954",
-      "version": "5.2.0",
-      "versionDate": "2026-10-19",
-      "versionDescription": "IPA Vault build for SpotiFLAC Mobile, version 5.2.0"
+      "version": "5.2.1",
+      "versionDate": "2026-10-20",
+      "versionDescription": "Rebranded as Mornye 5.2.1 with a new app icon and bundle identifier."
     }
   ],
   "userInfo": {}
