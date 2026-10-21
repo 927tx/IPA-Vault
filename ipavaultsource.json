@@ -307,11 +307,11 @@
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Nagram-13.0.1-MxGram.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Nagram-Icons/Nagram-AppStore-1024x1024.png",
       "localizedDescription": "Nagram 13.0.1 with MxGram 1.0.0",
-      "size": 112895169,
+      "size": 142960695,
       "subtitle": "Nagram 13.0.1 with MxGram 1.0.0",
       "tintColor": "#0088CC",
       "version": "13.0.1",
-      "versionDate": "2026-10-13",
+      "versionDate": "2026-10-20",
       "versionDescription": "IPA Vault build for Nagram (MxGram), version 13.0.1"
     },
     {
@@ -321,11 +321,11 @@
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Nagram-13.0.1-iQTele.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Nagram-Icons/Nagram-AppStore-1024x1024.png",
       "localizedDescription": "Nagram 13.0.1 with iQTele 1.4",
-      "size": 105208769,
+      "size": 135274329,
       "subtitle": "Nagram 13.0.1 with iQTele 1.4",
       "tintColor": "#0088CC",
       "version": "13.0.1",
-      "versionDate": "2026-10-13",
+      "versionDate": "2026-10-20",
       "versionDescription": "IPA Vault build for Nagram (iQTele), version 13.0.1"
     },
     {
@@ -334,12 +334,12 @@
       "developerName": "swiftleopard & IPA Vault",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Nagram-13.0.1-TGExtra.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Nagram-Icons/Nagram-AppStore-1024x1024.png",
-      "localizedDescription": "Nagram 13.0.1 with TGExtra 1.7.7",
-      "size": 104589096,
-      "subtitle": "Nagram 13.0.1 with TGExtra 1.7.7",
+      "localizedDescription": "Nagram 13.0.1 with TGExtra 1.7.9",
+      "size": 134654621,
+      "subtitle": "Nagram 13.0.1 with TGExtra 1.7.9",
       "tintColor": "#0088CC",
       "version": "13.0.1",
-      "versionDate": "2026-10-13",
+      "versionDate": "2026-10-20",
       "versionDescription": "IPA Vault build for Nagram (TGExtra), version 13.0.1"
     },
     {
@@ -570,15 +570,15 @@
       "name": "Threads (ThreadSaver)",
       "bundleIdentifier": "com.burbn.barcelona",
       "developerName": "swiftleopard & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Threads-452.0-ThreadSaver.ipa",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Threads-452.1-ThreadSaver.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Threads-Icons/Threads-AppStore-1024x1024.png",
-      "localizedDescription": "Threads 452.0 with ThreadSaver",
-      "size": 111173156,
-      "subtitle": "Threads 452.0 with ThreadSaver",
+      "localizedDescription": "Threads 452.1 with ThreadSaver",
+      "size": 113844763,
+      "subtitle": "Threads 452.1 with ThreadSaver",
       "tintColor": "#000000",
-      "version": "452.0",
-      "versionDate": "2026-10-19",
-      "versionDescription": "IPA Vault build for Threads (ThreadSaver), version 452.0"
+      "version": "452.1",
+      "versionDate": "2026-10-20",
+      "versionDescription": "IPA Vault build for Threads (ThreadSaver), version 452.1"
     },
     {
       "name": "TikTok (Infinitok)",
@@ -643,11 +643,11 @@
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/TwitchUnblock-1.6.0.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/TwitchUnblock%20Icons/icon_Normal.png",
       "localizedDescription": "TwitchUnblock 1.6.0",
-      "size": 4136356,
+      "size": 4626660,
       "subtitle": "TwitchUnblock 1.6.0",
       "tintColor": "#9146FF",
       "version": "1.6.0",
-      "versionDate": "2026-10-19",
+      "versionDate": "2026-10-20",
       "versionDescription": "IPA Vault build for TwitchUnblock, version 1.6.0"
     },
     {
@@ -929,6 +929,20 @@
       "size": 130361203,
       "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b13 + Pixie 1.1 (No Plugins)",
       "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b13 + Pixie 1.1) (No Plugins), version 9.1.90"
+    },
+    {
+      "name": "Stremio",
+      "bundleIdentifier": "com.stremio.pal",
+      "developerName": "Stremio",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Stremio-2.0.8-iOS.ipa",
+      "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Stremio%20Icons/StremioIcon1024x1024_UIAppearanceAny_4D55E175-3801-4FC5-BAB2-4EBCDAAD2015-13747-00000002DA723737_Normal.png",
+      "localizedDescription": "Official, unmodified Stremio iOS app, version 2.0.8.",
+      "size": 78506200,
+      "subtitle": "Stremio 2.0.8 for iOS",
+      "tintColor": "#7B5BF5",
+      "version": "2.0.8",
+      "versionDate": "2026-10-20",
+      "versionDescription": "Official Stremio iOS release, version 2.0.8."
     }
   ],
   "userInfo": {}
