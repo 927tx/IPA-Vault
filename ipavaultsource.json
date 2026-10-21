@@ -80,15 +80,15 @@
       "name": "Google Photos (Gunshot)",
       "bundleIdentifier": "com.google.Photos",
       "developerName": "tqmane & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/GooglePhotos-7.97.0-Gunshot.ipa",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/GooglePhotos-7.98.0-Gunshot.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Google-Photos-Icons/Google-Photos-AppStore-1024x1024.png",
-      "localizedDescription": "Google Photos 7.97.0 with Gunshot 0.3.0",
-      "size": 179925267,
-      "subtitle": "Google Photos 7.97.0 with Gunshot 0.3.0",
+      "localizedDescription": "Google Photos 7.98.0 with Gunshot 0.3.0",
+      "size": 180154903,
+      "subtitle": "Google Photos 7.98.0 with Gunshot 0.3.0",
       "tintColor": "#4285F4",
-      "version": "7.97.0",
-      "versionDate": "2026-10-15",
-      "versionDescription": "IPA Vault build for Google Photos (Gunshot 0.3.0), version 7.97.0"
+      "version": "7.98.0",
+      "versionDate": "2026-10-21",
+      "versionDescription": "IPA Vault build for Google Photos (Gunshot 0.3.0), version 7.98.0"
     },
     {
       "name": "Infuse Plus (7.8.4)",
@@ -892,15 +892,15 @@
       "name": "Stremio",
       "bundleIdentifier": "com.stremio.pal",
       "developerName": "Stremio",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Stremio-2.0.8-iOS.ipa",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Stremio-2.1.0-b24.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Stremio%20Icons/StremioIcon1024x1024_UIAppearanceAny_4D55E175-3801-4FC5-BAB2-4EBCDAAD2015-13747-00000002DA723737_Normal.png",
-      "localizedDescription": "Official, unmodified Stremio iOS app, version 2.0.8.",
-      "size": 78506200,
-      "subtitle": "Stremio 2.0.8 for iOS",
+      "localizedDescription": "Stremio 2.1.0-b24",
+      "size": 85213656,
+      "subtitle": "Stremio 2.1.0-b24",
       "tintColor": "#7B5BF5",
-      "version": "2.0.8",
-      "versionDate": "2026-10-20",
-      "versionDescription": "Official Stremio iOS release, version 2.0.8."
+      "version": "2.1.0-b24",
+      "versionDate": "2026-10-21",
+      "versionDescription": "Stremio 2.1.0-b24 for iOS"
     }
   ],
   "userInfo": {}
