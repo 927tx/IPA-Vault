@@ -901,6 +901,34 @@
       "version": "2.1.0-b24",
       "versionDate": "2026-10-21",
       "versionDescription": "Stremio 2.1.0-b24 for iOS"
+    },
+    {
+      "name": "Nuvio (Full)",
+      "bundleIdentifier": "com.nuvio.media",
+      "developerName": "Nuvio Media",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Nuvio-0.6.4-Full-Release.ipa",
+      "localizedDescription": "Nuvio 0.6.4 — Full Release.",
+      "size": 67805794,
+      "subtitle": "Nuvio 0.6.4 (Full Release)",
+      "versionDescription": "Nuvio Full Release 0.6.4",
+      "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Nuvio%20Icons/app-icon-1024_Normal.png",
+      "tintColor": "#5548B8",
+      "version": "0.6.4",
+      "versionDate": "2026-10-23"
+    },
+    {
+      "name": "Nuvio (Enhanced)",
+      "bundleIdentifier": "com.nuvio.media.enhanced",
+      "developerName": "luqmanfadlli & Nuvio Media",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Nuvio-0.6.4-Enhanced-Release.ipa",
+      "localizedDescription": "Nuvio 0.6.4 Enhanced — Unofficial Nuvio Mobile repository build with experimental features, improvements, and bug fixes not yet available in the official repository.",
+      "size": 72679701,
+      "subtitle": "Nuvio 0.6.4 (Enhanced Release)",
+      "versionDescription": "Nuvio Enhanced Release 0.6.4",
+      "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Nuvio%20Icons/app-icon-1024_Normal.png",
+      "tintColor": "#5548B8",
+      "version": "0.6.4",
+      "versionDate": "2026-10-23"
     }
   ],
   "userInfo": {}
