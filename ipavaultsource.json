@@ -825,12 +825,12 @@
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
       "tintColor": "#1DB954",
       "version": "9.1.90",
-      "versionDate": "2026-10-18",
+      "versionDate": "2026-10-24",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.90-Taurus.ipa",
-      "localizedDescription": "Spotify 9.1.90 with Taurus 0.60.2",
-      "size": 138585335,
-      "subtitle": "Spotify 9.1.90 with Taurus 0.60.2",
-      "versionDescription": "IPA Vault build for Spotify (Taurus 0.60.2), version 9.1.90"
+      "localizedDescription": "Spotify 9.1.90 with Taurus 0.60.3",
+      "size": 138483176,
+      "subtitle": "Spotify 9.1.90 with Taurus 0.60.3",
+      "versionDescription": "IPA Vault build for Spotify (Taurus 0.60.3), version 9.1.90"
     },
     {
       "name": "Spotify (Taurus) (No Plugins)",
@@ -839,12 +839,12 @@
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
       "tintColor": "#1DB954",
       "version": "9.1.90",
-      "versionDate": "2026-10-18",
+      "versionDate": "2026-10-24",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.90-Taurus-No-Plugins.ipa",
-      "localizedDescription": "Spotify 9.1.90 with Taurus 0.60.2 (No Plugins)",
-      "size": 137098824,
-      "subtitle": "Spotify 9.1.90 with Taurus 0.60.2 (No Plugins)",
-      "versionDescription": "IPA Vault build for Spotify (Taurus 0.60.2), version 9.1.90 (No Plugins)"
+      "localizedDescription": "Spotify 9.1.90 with Taurus 0.60.3 (No Plugins)",
+      "size": 137000888,
+      "subtitle": "Spotify 9.1.90 with Taurus 0.60.3 (No Plugins)",
+      "versionDescription": "IPA Vault build for Spotify (Taurus 0.60.3), version 9.1.90 (No Plugins)"
     },
     {
       "name": "Mornye",
