@@ -498,17 +498,17 @@
     },
     {
       "name": "Spotify (Vitrine)",
-      "bundleIdentifier": "com.spotify.client.vitrine",
+      "bundleIdentifier": "com.spotify.client",
       "developerName": "MyNameIsJeff & skopevoj & IPA Vault",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
       "tintColor": "#1DB954",
       "version": "9.1.90",
       "versionDate": "2026-10-23",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.90-Vitrine.ipa",
-      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b14",
-      "size": 131392428,
-      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b14",
-      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b14), version 9.1.90"
+      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b15",
+      "size": 131402482,
+      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b15",
+      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b15), version 9.1.90"
     },
     {
       "name": "Spotify (Vitrine) (No Plugins)",
@@ -519,10 +519,10 @@
       "version": "9.1.90",
       "versionDate": "2026-10-23",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.90-Vitrine-No-Plugins.ipa",
-      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b14 (No Plugins)",
-      "size": 129857821,
-      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b14 (No Plugins)",
-      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b14) (No Plugins), version 9.1.90"
+      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b15 (No Plugins)",
+      "size": 129903455,
+      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b15 (No Plugins)",
+      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b15) (No Plugins), version 9.1.90"
     },
     {
       "name": "Threads (ThreadSaver)",
@@ -862,7 +862,7 @@
     },
     {
       "name": "Spotify (Vitrine + Pixie)",
-      "bundleIdentifier": "com.spotify.client",
+      "bundleIdentifier": "com.spotify.client.vitrine.pixie",
       "developerName": "Glongq, IPA Vault, MyNameIsJeff & skopevoj",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
       "tintColor": "#1DB954",
