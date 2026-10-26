@@ -10,15 +10,15 @@
       "name": "Discord (RainTweak)",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Ra1ncord & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Discord-349.0-RainTweak.ipa",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Discord-350.0-RainTweak.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Discord-Icons/Discord-AppStore-1024x1024.png",
-      "localizedDescription": "Discord 349.0 with RainTweak 0.10.0",
-      "size": 109083695,
-      "subtitle": "Discord 349.0 with RainTweak 0.10.0",
+      "localizedDescription": "Discord 350.0 with RainTweak 0.10.0",
+      "size": 102115430,
+      "subtitle": "Discord 350.0 with RainTweak 0.10.0",
       "tintColor": "#5865F2",
-      "version": "349.0",
-      "versionDate": "2026-10-13",
-      "versionDescription": "IPA Vault build for Discord (RainTweak), version 349.0"
+      "version": "350.0",
+      "versionDate": "2026-10-25",
+      "versionDescription": "IPA Vault build for Discord (RainTweak), version 350.0"
     },
     {
       "name": "Facebook (iQFace)",
@@ -867,12 +867,12 @@
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
       "tintColor": "#1DB954",
       "version": "9.1.90",
-      "versionDate": "2026-10-23",
+      "versionDate": "2026-10-25",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.90-Vitrine-Pixie.ipa",
-      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b14 and Pixie 1.2.1",
-      "size": 131308698,
-      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b14 + Pixie 1.2.1",
-      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b14 + Pixie 1.2.1), version 9.1.90"
+      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b16 and Pixie 1.3",
+      "size": 130499356,
+      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b16 + Pixie 1.3",
+      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b16 + Pixie 1.3), version 9.1.90"
     },
     {
       "name": "Spotify (Vitrine + Pixie) (No Plugins)",
@@ -881,12 +881,12 @@
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
       "tintColor": "#1DB954",
       "version": "9.1.90",
-      "versionDate": "2026-10-23",
+      "versionDate": "2026-10-25",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.90-Vitrine-Pixie-No-Plugins.ipa",
-      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b14 and Pixie 1.2.1 (No Plugins)",
-      "size": 130516241,
-      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b14 + Pixie 1.2.1 (No Plugins)",
-      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b14 + Pixie 1.2.1) (No Plugins), version 9.1.90"
+      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b16 and Pixie 1.3 (No Plugins)",
+      "size": 128966892,
+      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b16 + Pixie 1.3 (No Plugins)",
+      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b16 + Pixie 1.3) (No Plugins), version 9.1.90"
     },
     {
       "name": "Stremio",
