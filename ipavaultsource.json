@@ -374,15 +374,15 @@
       "name": "SoundCloud (NexaSC)",
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "cielogic & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/SoundCloud-8.83.0-NexaSC.ipa",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/SoundCloud-8.83.1-NexaSC.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/SoundCloud-8.76.0-Icons/SoundCloud-AppStore-1024x1024.png",
-      "localizedDescription": "SoundCloud 8.83.0 with NexaSC beta 4",
-      "size": 227377895,
-      "subtitle": "SoundCloud 8.83.0 with NexaSC beta 4",
+      "localizedDescription": "SoundCloud 8.83.1 with NexaSC beta 4",
+      "size": 227742189,
+      "subtitle": "SoundCloud 8.83.1 with NexaSC beta 4",
       "tintColor": "#FF5500",
-      "version": "8.83.0",
-      "versionDate": "2026-10-19",
-      "versionDescription": "IPA Vault build for SoundCloud (NexaSC), version 8.83.0"
+      "version": "8.83.1",
+      "versionDate": "2026-10-25",
+      "versionDescription": "IPA Vault build for SoundCloud (NexaSC), version 8.83.1"
     },
     {
       "name": "Swiftgram (MxGram)",
@@ -503,12 +503,12 @@
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
       "tintColor": "#1DB954",
       "version": "9.1.90",
-      "versionDate": "2026-10-23",
+      "versionDate": "2026-10-25",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.90-Vitrine.ipa",
-      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b15",
-      "size": 131402482,
-      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b15",
-      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b15), version 9.1.90"
+      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b16",
+      "size": 131358813,
+      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b16",
+      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b16), version 9.1.90"
     },
     {
       "name": "Spotify (Vitrine) (No Plugins)",
@@ -517,12 +517,12 @@
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Spotify-Icons/Spotify-AppStore-1024x1024.png",
       "tintColor": "#1DB954",
       "version": "9.1.90",
-      "versionDate": "2026-10-23",
+      "versionDate": "2026-10-25",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.90-Vitrine-No-Plugins.ipa",
-      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b15 (No Plugins)",
-      "size": 129903455,
-      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b15 (No Plugins)",
-      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b15) (No Plugins), version 9.1.90"
+      "localizedDescription": "Spotify 9.1.90 with Vitrine 1.0.0-b16 (No Plugins)",
+      "size": 129821981,
+      "subtitle": "Spotify 9.1.90 with Vitrine 1.0.0-b16 (No Plugins)",
+      "versionDescription": "IPA Vault build for Spotify (Vitrine 1.0.0-b16) (No Plugins), version 9.1.90"
     },
     {
       "name": "Threads (ThreadSaver)",
@@ -827,10 +827,10 @@
       "version": "9.1.90",
       "versionDate": "2026-10-25",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.90-Taurus.ipa",
-      "localizedDescription": "Spotify 9.1.90 with Taurus 0.60.4",
-      "size": 138583935,
-      "subtitle": "Spotify 9.1.90 with Taurus 0.60.4",
-      "versionDescription": "IPA Vault build for Spotify (Taurus 0.60.4), version 9.1.90"
+      "localizedDescription": "Spotify 9.1.90 with Taurus 0.60.5",
+      "size": 138593436,
+      "subtitle": "Spotify 9.1.90 with Taurus 0.60.5",
+      "versionDescription": "IPA Vault build for Spotify (Taurus 0.60.5), version 9.1.90"
     },
     {
       "name": "Spotify (Taurus) (No Plugins)",
@@ -841,10 +841,10 @@
       "version": "9.1.90",
       "versionDate": "2026-10-25",
       "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Spotify-9.1.90-Taurus-No-Plugins.ipa",
-      "localizedDescription": "Spotify 9.1.90 with Taurus 0.60.4 (No Plugins)",
-      "size": 137100353,
-      "subtitle": "Spotify 9.1.90 with Taurus 0.60.4 (No Plugins)",
-      "versionDescription": "IPA Vault build for Spotify (Taurus 0.60.4), version 9.1.90 (No Plugins)"
+      "localizedDescription": "Spotify 9.1.90 with Taurus 0.60.5 (No Plugins)",
+      "size": 137151408,
+      "subtitle": "Spotify 9.1.90 with Taurus 0.60.5 (No Plugins)",
+      "versionDescription": "IPA Vault build for Spotify (Taurus 0.60.5), version 9.1.90 (No Plugins)"
     },
     {
       "name": "Mornye",
