@@ -444,15 +444,15 @@
       "name": "Telegram (TGExtra)",
       "bundleIdentifier": "ph.telegra.Telegraph.tgextra",
       "developerName": "swiftleopard & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Telegram-13.0-TGExtra.ipa",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Telegram-13.1.1-TGExtra.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Telegram-Icons/Telegram-AppStore-1024x1024.png",
-      "localizedDescription": "Telegram 13.0 with TGExtra 1.7.8",
-      "size": 83391380,
-      "subtitle": "Telegram 13.0 with TGExtra 1.7.8",
+      "localizedDescription": "Telegram 13.1.1 with TGExtra 1.7.10",
+      "size": 80530311,
+      "subtitle": "Telegram 13.1.1 with TGExtra 1.7.10",
       "tintColor": "#0088CC",
-      "version": "13.0",
-      "versionDate": "2026-10-09",
-      "versionDescription": "IPA Vault build for Telegram (TGExtra), version 13.0"
+      "version": "13.1.1",
+      "versionDate": "2026-10-27",
+      "versionDescription": "IPA Vault build for Telegram (TGExtra), version 13.1.1"
     },
     {
       "name": "Spotify (EeveeSpotify)",
