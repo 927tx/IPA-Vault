@@ -957,32 +957,6 @@
       "version": "47.5.0",
       "versionDate": "2026-10-26",
       "versionDescription": "IPA Vault build for TikTok (gtok), version 47.5.0"
-    },
-    {
-      "name": "Renovate AI (Pro)",
-      "bundleIdentifier": "app.renovateai",
-      "developerName": "Trial and Error, Inc & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Renovate-AI-5.6.0-Pro.ipa",
-      "localizedDescription": "Renovate AI 5.6.0 (Pro)",
-      "size": 67093169,
-      "subtitle": "Renovate AI 5.6.0 (Pro)",
-      "tintColor": "#64748B",
-      "version": "5.6.0",
-      "versionDate": "2026-10-31",
-      "versionDescription": "IPA Vault build for Renovate AI (Pro), version 5.6.0"
-    },
-    {
-      "name": "Compressor (Pro)",
-      "bundleIdentifier": "com.theblackholecompany.ImageCompressor1",
-      "developerName": "Youssef Ismaili & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Compressor-2-Pro.ipa",
-      "localizedDescription": "Compressor 2 (Pro)",
-      "size": 73827871,
-      "subtitle": "Compressor 2 (Pro)",
-      "tintColor": "#64748B",
-      "version": "2",
-      "versionDate": "2026-10-31",
-      "versionDescription": "IPA Vault build for Compressor (Pro), version 2"
     }
   ],
   "userInfo": {}
