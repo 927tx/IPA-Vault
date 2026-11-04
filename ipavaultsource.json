@@ -1,5 +1,5 @@
 {
-  "name": "IPA Vault",
+  "name": "IPA Vault Source Repo",
   "identifier": "com.ipavault.source",
   "subtitle": "IPA Vault IPAs",
   "description": "IPAs from IPA Vault\n- Telegram Channel: https://t.me/ipavault",
@@ -735,32 +735,32 @@
       "versionDescription": "IPA Vault build for YouTube (YouMod 2.0.0), version 21.44.4"
     },
     {
-      "name": "YouTube (YTKACE 1.1.4) (iOS 16+)",
+      "name": "YouTube (YTKACE 1.1.5) (iOS 16+)",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "itzzace0 & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/YouTube-21.33.6-YTKACE.ipa",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/YouTube%2021.33.6%20%28YTKACE%201.1.5%29%20%5B%40ipavault%5D.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/YouTube-Icons/YouTube-AppStore-1024x1024.png",
-      "localizedDescription": "YouTube 21.33.6 with YTKACE 1.1.4 (iOS 16+)\n\nAdded Tweaks:\nYTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouQuality, YouChooseQuality, YTHoldForSpeed, YouGroupSettings",
-      "size": 134737770,
-      "subtitle": "YouTube 21.33.6 with YTKACE 1.1.4",
+      "localizedDescription": "YouTube 21.33.6 with YTKACE 1.1.5 (iOS 16+)\n\nAdded Tweaks:\nYTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouQuality, YouChooseQuality, YTHoldForSpeed, YouGroupSettings",
+      "size": 134760838,
+      "subtitle": "YouTube 21.33.6 with YTKACE 1.1.5",
       "tintColor": "#FF0000",
       "version": "21.33.6",
-      "versionDate": "2026-10-25",
-      "versionDescription": "IPA Vault build for YouTube (YTKACE 1.1.4), version 21.33.6"
+      "versionDate": "2026-11-03",
+      "versionDescription": "IPA Vault build for YouTube (YTKACE 1.1.5), version 21.33.6"
     },
     {
-      "name": "YouTube (YTKACE 1.1.4)",
+      "name": "YouTube (YTKACE 1.1.5)",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "itzzace0 & IPA Vault",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/YouTube%2021.44.4%20%28YTKACE%201.1.4%29%20%5B%40ipavault%5D.ipa",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/YouTube%2021.44.4%20%28YTKACE%201.1.5%29%20%5B%40ipavault%5D.ipa",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/YouTube-Icons/YouTube-AppStore-1024x1024.png",
-      "localizedDescription": "YouTube 21.44.4 with YTKACE 1.1.4\n\nAdded Tweaks:\nYTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouQuality, YouChooseQuality, YTHoldForSpeed, YouGroupSettings",
-      "size": 145720957,
-      "subtitle": "YouTube 21.44.4 with YTKACE 1.1.4",
+      "localizedDescription": "YouTube 21.44.4 with YTKACE 1.1.5\n\nAdded Tweaks:\nYTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouQuality, YouChooseQuality, YTHoldForSpeed, YouGroupSettings",
+      "size": 145744027,
+      "subtitle": "YouTube 21.44.4 with YTKACE 1.1.5",
       "tintColor": "#FF0000",
       "version": "21.44.4",
       "versionDate": "2026-11-03",
-      "versionDescription": "IPA Vault build for YouTube (YTKACE 1.1.4), version 21.44.4"
+      "versionDescription": "IPA Vault build for YouTube (YTKACE 1.1.5), version 21.44.4"
     },
     {
       "developerName": "dvntms & itzzace0 & IPA Vault",
